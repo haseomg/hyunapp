@@ -35,7 +35,6 @@ public class DiaryAdapter extends RecyclerView.Adapter<DiaryAdapter.ViewHolder>{
     }
 
 
-
     /**
      * 리사이클러뷰 리스트 사이즈를 불러옴
      * **/
